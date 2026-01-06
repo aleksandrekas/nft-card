@@ -161,4 +161,10 @@ p{
 .author span{
     margin:0 0 0 0.2rem ;
     color: var(--White);
+    cursor: pointer;
+}
+
+
+.author span:hover{
+    color: var(--Cyan-400);
 }
